@@ -7,12 +7,12 @@ Recriando interface do Pipefy usando React
 ```
 git clone https://github.com/willianmonteiro/pipefy-react-interface.git
 
-### Development
 ```
 
+### Development
+
+```
 yarn install
 yarn start
-
-```
 
 ```
