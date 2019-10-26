@@ -6,25 +6,25 @@ export function loadLists() {
       cards: [
         {
           id: 1,
-          content: 'Estudar módulo 01 de NodeJS',
+          content: 'Estudar NodeJS',
           labels: ['#3b5bfd'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 2,
-          content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+          content: 'Estudando drag and Drop usando interface do Pipefy',
           labels: ['#3b5bfd'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 3,
-          content: 'Estudar módulo 03 de React Native',
-          labels: ['#3b5bfd'],
+          content: 'Estudar React Native',
+          labels: ['#037068'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 4,
-          content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+          content: 'Estudar ReactJS"',
           labels: ['#54e1f7'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
@@ -54,13 +54,13 @@ export function loadLists() {
       cards: [
         {
           id: 7,
-          content: 'Gravar sobre Geolocalização e mapas com React Native',
+          content: 'Aprender sobre Geolocalização e mapas com React Native',
           labels: ['#3b5bfd'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 8,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Estudar testes e deploy ReactJS',
           labels: ['#54e1f7'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
@@ -78,17 +78,17 @@ export function loadLists() {
       cards: [
         {
           id: 10,
-          content: 'Gravar aula sobre deploy e CI com React Native',
+          content: 'Aprender sobre deploy e CI com React Native',
           labels: [],
         },
         {
           id: 12,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Estudar testes e deploy ReactJS',
           labels: ['#54e1f7'],
         },
         {
           id: 13,
-          content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+          content: 'Aprnder Internacionalização de aplicações Node.js, ReactJS e React Native',
           labels: ['#3b5bfd'],
         }
       ]
