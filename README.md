@@ -1,6 +1,7 @@
 # pipefy-react-interface
 
-Recriando interface do Pipefy usando React
+Interface baseada no Pipefy usando React.
+Efeito drag em drop usando [React-Dnd](https://react-dnd.github.io/react-dnd/about).
 
 ## Get Started
 
