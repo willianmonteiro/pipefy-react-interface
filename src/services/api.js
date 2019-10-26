@@ -88,7 +88,7 @@ export function loadLists() {
         },
         {
           id: 13,
-          content: 'Aprnder Internacionalização de aplicações Node.js, ReactJS e React Native',
+          content: 'Aprender Internacionalização de aplicações Node.js, ReactJS e React Native',
           labels: ['#3b5bfd'],
         }
       ]
