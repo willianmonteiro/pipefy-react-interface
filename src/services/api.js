@@ -1,94 +1,94 @@
 export function loadLists() {
   return [
     { 
-      title: 'Tarefas', 
+      title: 'To do', 
       creatable: true,
       cards: [
         {
           id: 1,
-          content: 'Estudar NodeJS',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#3b5bfd'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 2,
-          content: 'Estudando drag and Drop usando interface do Pipefy',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#3b5bfd'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 3,
-          content: 'Estudar React Native',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#037068'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 4,
-          content: 'Estudar ReactJS"',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#54e1f7'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 5,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#54e1f7'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
       ]
     },
     { 
-      title: 'Fazendo', 
+      title: 'In Progress', 
       creatable: false,
       cards: [
         {
           id: 6,
-          content: 'Recriando clone do Pipefy',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: [],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         }
       ]
     },
     { 
-      title: 'Pausado', 
+      title: 'Paused', 
       creatable: false,
       cards: [
         {
           id: 7,
-          content: 'Aprender sobre Geolocalização e mapas com React Native',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#3b5bfd'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 8,
-          content: 'Estudar testes e deploy ReactJS',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#54e1f7'],
           user: 'https://avatars3.githubusercontent.com/u/11152984'
         },
         {
           id: 9,
-          content: 'Ajustes na biblioteca unform',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: [],
         }
       ]
     },
     { 
-      title: 'Concluído', 
+      title: 'Done', 
       creatable: false,
       done: true,
       cards: [
         {
           id: 10,
-          content: 'Aprender sobre deploy e CI com React Native',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: [],
         },
         {
           id: 12,
-          content: 'Estudar testes e deploy ReactJS',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#54e1f7'],
         },
         {
           id: 13,
-          content: 'Aprender Internacionalização de aplicações Node.js, ReactJS e React Native',
+          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
           labels: ['#3b5bfd'],
         }
       ]

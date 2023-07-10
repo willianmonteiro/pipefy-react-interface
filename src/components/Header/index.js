@@ -5,7 +5,7 @@ import { Container } from "./styles";
 export default function Header() {
   return (
     <Container>
-      <h1>Pipefy</h1>
+      <h1>Drag n' Drop</h1>
     </Container>
   );
 }
